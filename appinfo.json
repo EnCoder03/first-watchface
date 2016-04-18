@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "isaacmcoe73@gmail.com",
+    "enableMultiJS": true,
+    "longName": "First whatchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Minimal Face",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "31764d39-cdd7-47b9-bf67-d58a2f161d00",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
